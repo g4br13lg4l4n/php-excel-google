@@ -1,0 +1,12 @@
+{
+    "name": "gabrielgalanmendez/csv",
+    "authors": [
+        {
+            "name": "Gabriel Galan",
+            "email": "gabriel.galan92@gmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.0"
+    }
+}
